@@ -1,0 +1,7 @@
+*.cache/
+*.runs/
+*.sim/
+*.tmp/
+*.log
+*.jou
+.idea
